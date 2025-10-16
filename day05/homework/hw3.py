@@ -1,0 +1,6 @@
+print("===============")
+name=input("enter your name:")
+surname=input("enter your surname:")
+age=int(input("enter your age:"))
+birth=int(input('enter your birth:'))
+print("===============")
